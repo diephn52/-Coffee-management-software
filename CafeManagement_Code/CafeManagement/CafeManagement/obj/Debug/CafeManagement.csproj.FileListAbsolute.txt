@@ -1,0 +1,13 @@
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe.config
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\bin\Debug\CafeManagement.pdb
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csprojAssemblyReference.cache
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\obj\Debug\CafeManagement.fLogin.resources
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\obj\Debug\CafeManagement.exe
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\obj\Debug\CafeManagement.pdb
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\obj\Debug\CafeManagement.fTableManager.resources
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\obj\Debug\CafeManagement.fAccountProfile.resources
+C:\Users\dieph\Desktop\RileyCafe\CafeManagement\CafeManagement_Code\CafeManagement\CafeManagement\obj\Debug\CafeManagement.fAdmin.resources
